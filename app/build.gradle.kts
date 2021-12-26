@@ -7,7 +7,7 @@ android {
     compileSdk = 31
 
     defaultConfig {
-        applicationId = "com.example.chatapp"
+        applicationId = "link.mineplay.chatapp"
         minSdk = 21
         targetSdk = 31
         versionCode = 1
