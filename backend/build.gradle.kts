@@ -12,6 +12,10 @@ java {
     targetCompatibility = JavaVersion.VERSION_1_7
 }
 
+application {
+    mainClass.set("link.mineplay.chatapp.backend.Application")
+}
+
 dependencies {
     implementation(project(":shared"))
 
