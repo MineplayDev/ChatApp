@@ -1,4 +1,4 @@
-package com.example.chatapp
+package link.mineplay.chatapp.app
 
 import org.junit.Test
 
